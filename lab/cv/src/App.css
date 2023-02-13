@@ -1,0 +1,25 @@
+.backcolorylo {
+  background-color: #f2e478;
+  position: absolute;
+  width: 100%;
+}
+
+
+
+.backcolorwight {
+  background-color: white;
+  width: 60%;
+  margin: 55px auto;
+  padding: 5px;
+
+}
+
+.backcolorgreen {
+  background-image: linear-gradient(to left, #e5eae6, white 50%);
+  padding: 6px;
+}
+
+.backcolorborder {
+  border: 3px solid black;
+  margin: 20px;
+}

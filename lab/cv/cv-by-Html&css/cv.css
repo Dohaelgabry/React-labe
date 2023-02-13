@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.backcolorylo {
+    background-color: #f2e478;
+    position: absolute;
+    width: 100%;
+}
+
+
+
+.backcolorwight {
+    background-color: white;
+    width: 60%;
+    margin: 55px auto;
+    padding: 5px;
+
+}
+.backcolorgreen {
+    background-image: linear-gradient(to left,#e5eae6 , white 50% );
+    padding: 6px;
+}
+
+.backcolorborder {
+    border: 3px solid black;
+    margin: 20px;
+}
+
+.cvname {
+        font-size: 35px;
+        text-align: center;
+        padding-bottom: 30px;
+}
+.spanname{
+    font-size: 20px;
+}
+.image{
+    width:130px ;
+    height:130px ;  
+    display: block;
+    margin: 0  auto;
+}
